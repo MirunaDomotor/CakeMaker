@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeMakerProj", "CakeMakerProj\CakeMakerProj.csproj", "{BEF3E8DD-E7A5-4B88-ABDA-742181CBB635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste", "Teste\Teste.csproj", "{83CB381B-8057-49F2-9106-9F6A54E58655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEF3E8DD-E7A5-4B88-ABDA-742181CBB635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF3E8DD-E7A5-4B88-ABDA-742181CBB635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF3E8DD-E7A5-4B88-ABDA-742181CBB635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF3E8DD-E7A5-4B88-ABDA-742181CBB635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83CB381B-8057-49F2-9106-9F6A54E58655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83CB381B-8057-49F2-9106-9F6A54E58655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83CB381B-8057-49F2-9106-9F6A54E58655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83CB381B-8057-49F2-9106-9F6A54E58655}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7F3374B-9D87-4A62-809C-1A568CD2A7DD}
+	EndGlobalSection
+EndGlobal

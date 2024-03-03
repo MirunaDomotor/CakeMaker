@@ -1,0 +1,14 @@
+C:\Users\user.DESKTOP-4FF9D65\source\repos\CakeMakerProj\CakeMakerProj\bin\Debug\net6.0\CakeMakerProj.exe
+C:\Users\user.DESKTOP-4FF9D65\source\repos\CakeMakerProj\CakeMakerProj\bin\Debug\net6.0\CakeMakerProj.deps.json
+C:\Users\user.DESKTOP-4FF9D65\source\repos\CakeMakerProj\CakeMakerProj\bin\Debug\net6.0\CakeMakerProj.runtimeconfig.json
+C:\Users\user.DESKTOP-4FF9D65\source\repos\CakeMakerProj\CakeMakerProj\bin\Debug\net6.0\CakeMakerProj.dll
+C:\Users\user.DESKTOP-4FF9D65\source\repos\CakeMakerProj\CakeMakerProj\bin\Debug\net6.0\CakeMakerProj.pdb
+C:\Users\user.DESKTOP-4FF9D65\source\repos\CakeMakerProj\CakeMakerProj\obj\Debug\net6.0\CakeMakerProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user.DESKTOP-4FF9D65\source\repos\CakeMakerProj\CakeMakerProj\obj\Debug\net6.0\CakeMakerProj.AssemblyInfoInputs.cache
+C:\Users\user.DESKTOP-4FF9D65\source\repos\CakeMakerProj\CakeMakerProj\obj\Debug\net6.0\CakeMakerProj.AssemblyInfo.cs
+C:\Users\user.DESKTOP-4FF9D65\source\repos\CakeMakerProj\CakeMakerProj\obj\Debug\net6.0\CakeMakerProj.csproj.CoreCompileInputs.cache
+C:\Users\user.DESKTOP-4FF9D65\source\repos\CakeMakerProj\CakeMakerProj\obj\Debug\net6.0\CakeMakerProj.dll
+C:\Users\user.DESKTOP-4FF9D65\source\repos\CakeMakerProj\CakeMakerProj\obj\Debug\net6.0\refint\CakeMakerProj.dll
+C:\Users\user.DESKTOP-4FF9D65\source\repos\CakeMakerProj\CakeMakerProj\obj\Debug\net6.0\CakeMakerProj.pdb
+C:\Users\user.DESKTOP-4FF9D65\source\repos\CakeMakerProj\CakeMakerProj\obj\Debug\net6.0\CakeMakerProj.genruntimeconfig.cache
+C:\Users\user.DESKTOP-4FF9D65\source\repos\CakeMakerProj\CakeMakerProj\obj\Debug\net6.0\ref\CakeMakerProj.dll
